@@ -250,6 +250,6 @@ This project was heavily inspired by:
 Lizzie Dixon’s blog:
 
 “Linux containers in 500 LOC”
-https://blog.lizzie.io/linux-containers-in-500-loc/
+https://blog.lizzie.io/linux-containers-in-500-loc.html
 
 The article was extremely helpful in understanding the early structure of Linux container runtimes and served as an important reference during the initial stages of the project.
